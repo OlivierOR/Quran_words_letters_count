@@ -1,5 +1,8 @@
 A few words.
 
+First of all, thanks to Tanzil (http://tanzil.net/docs/download)
+who provided the Quran versions used in this program.
+
 Count words and letters of the surah, verses and words
 of the Quran from his uthmani longuest version.
 
